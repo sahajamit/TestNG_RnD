@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Phoenix.Equinox.Com Verification" duration-ms="6036" started-at="2015-02-02T14:13:50Z" finished-at="2015-02-02T14:13:56Z">
+    <groups>
+    </groups>
+    <test name="Retry Test" duration-ms="6036" started-at="2015-02-02T14:13:50Z" finished-at="2015-02-02T14:13:56Z">
+      <class name="com.testng.practise.Annotationtransformerexample">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.testng.practise.Annotationtransformerexample@7031086c]" name="test1" duration-ms="3017" started-at="2015-02-02T19:43:50Z" finished-at="2015-02-02T19:43:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.testng.practise.Annotationtransformerexample@7031086c]" name="test2" duration-ms="3002" started-at="2015-02-02T19:43:53Z" finished-at="2015-02-02T19:43:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.testng.practise.Annotationtransformerexample -->
+    </test> <!-- Retry Test -->
+  </suite> <!-- Phoenix.Equinox.Com Verification -->
+</testng-results>

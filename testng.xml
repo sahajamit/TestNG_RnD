@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Phoenix.Equinox.Com Verification" verbose="1">
+	<listeners>
+		<listener class-name="com.testng.practise.TestNGAnnotationTransformer"></listener>
+	</listeners>
+	<test name="Retry Test">
+		<classes>
+			<class name="com.testng.practise.Annotationtransformerexample"></class>  
+		</classes>
+	</test>
+</suite>

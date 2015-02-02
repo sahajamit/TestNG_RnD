@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Phoenix.Equinox.Com Verification]">
+  <listeners>
+    <listener class-name="com.testng.practise.TestNGAnnotationTransformer"/>
+  </listeners>
+  <test name="Retry Test(failed)">
+    <classes>
+      <class name="com.testng.practise.Annotationtransformerexample">
+        <methods>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- com.testng.practise.Annotationtransformerexample -->
+    </classes>
+  </test> <!-- Retry Test(failed) -->
+</suite> <!-- Failed suite [Phoenix.Equinox.Com Verification] -->
